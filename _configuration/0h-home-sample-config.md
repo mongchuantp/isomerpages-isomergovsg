@@ -50,21 +50,6 @@ sections:
         url: /core-values/
         image: /images/professionalism.png
         alt: Members of the Ministry of ABC in suits
-    - carousel:
-        - title: Initiative A
-          subtitle: services
-          description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
-          image: /images/initiative-a.png
-          alt: Employees taking part in Initiative A
-        - title: Initiative B
-          subtitle: services
-          image: /images/initiative-b.png
-          alt: Employees handing out hampers to underserved citizens
-        - title: Initiative C
-          subtitle: services
-          description: Maecenas nec pretium eros, sed gravida tortor. Cras suscipit a dolor vel vehicula.
-          image: /images/initiative-c.png
-          alt: Citizens providing their feedback to grassroots leaders
     - resources:
         title: Media
         subtitle: Learn more
