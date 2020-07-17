@@ -21,6 +21,7 @@ GovTech will be responsible for website hosting, maintenance, support and ensuri
 
 #### **Does my agency need to pay to have our website to be on Isomer?**
 Isomer is free of charge. The service will cover website hosting, maintenance, support and training for the system.
+However, do note that you have to pay for the purchase or domain from Central DNS and SSL certificate.
 
 #### **Does my agency need to migrate the content from our existing website?**
 Your agency will be responsible for choosing what content to migrate and also the migration of the content. 
@@ -29,23 +30,12 @@ GovTech will support your agency by providing training.
 #### **What are some of the Government websites that are already on Isomer?**
 These are some of the Government websites that are already on Isomer:
 * GovTech website: [https://www.tech.gov.sg/](https://www.tech.gov.sg/){:target="_blank"}
+* Customs website: [https://www.customs.gov.sg/](https://www.customs.gov.sg/){:target="_blank"}
+* Ministry of Law website: [https://www.mlaw.gov.sg/](https://www.mlaw.gov.sg/){:target="_blank"}
 * HLB website: [https://www.hlb.gov.sg](https://www.hlb.gov.sg/){:target="_blank"} 
 * BOA website: [https://www.boa.gov.sg](https://www.boa.gov.sg/){:target="_blank"}
-
-#### **How do Agencies get started on Isomer?**
-You can reach out to us through this [form](https://form.gov.sg/#!/5dc80f7c03b2790012428dc5)
 
 #### **What type of websites is Isomer suitable for?**
 Informational websites are suited to be on Isomer.
 You can contact us through this [form](https://form.gov.sg/#!/5dc80f7c03b2790012428dc5) for more information.
 
-#### **What are my options if I am unable to use Isomer?**
-Your agency can consider using the Isomer Design System. 
-
-Isomer Design System is a collection of UI components and design patterns that were built with the best UX practices in mind. The purpose of the design system is to provide the public with a unified experience across all public-facing government digital services.
-
-Do note that for the Isomer Design System, your agency will be responsible for  developing, hosting, maintaining the website and ensuring that the website is compliant to the IM8 and DSS.
-
-Design systems are widely used around the world today:
-* In Industry: [Google Material design](https://material.io/design/){:target="_blank"}, [Adobe Spectrum](https://theblog.adobe.com/author/the-spectrum-design-team/){:target="_blank"}
-* In Government: [U.S. Web Design System](https://designsystem.digital.gov/){:target="_blank"}, [Gov.UK Design System](https://design-system.service.gov.uk/){:target="_blank"}, [Australian Design System](https://designsystem.gov.au/){:target="_blank"}
