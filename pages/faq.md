@@ -21,7 +21,10 @@ GovTech will be responsible for website hosting, maintenance, support and ensuri
 
 #### **Does my agency need to pay to have our website to be on Isomer?**
 Isomer is free of charge. The service will cover website hosting, maintenance, support and training for the system.
-However, do note that you have to pay for the purchase or domain from Central DNS and SSL certificate.
+However, do note that you have to pay for the purchase of domain from Central DNS and SSL certificate.
+
+#### **How do I purchase domain?**
+You should approach your ITD colleagues who would be familiar with the process. Otherwise, you have to access the ITSM portal on your GSIB machine and submit a request for the purchase of domain. You will have to attach the approval for the purchase of domain in the request. 
 
 #### **Does my agency need to migrate the content from our existing website?**
 Your agency will be responsible for choosing what content to migrate and also the migration of the content. 
