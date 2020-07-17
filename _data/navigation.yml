@@ -7,8 +7,8 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Get Started
-    url: /get-started/
+  - title: Get started
+    collection: get-started
   - title: Tutorial
     collection: tutorial
   - title: Configuration
