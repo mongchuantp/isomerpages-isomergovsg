@@ -13,7 +13,7 @@ When you're ready to get onboard:
 2. Send us request through [this contact form](https://go.gov.sg/isomer-contact/).
 3. We'll create an empty template for you and grant you access to start editing
 
-You can refer to our guide [here](https://
+You can refer to our guide [here](https://v2.isomer.gov.sg/tutorial/firstedit/github-setup/) on how to create a Github account.
 
 ### Site editing
 
@@ -30,7 +30,8 @@ Next, the following things would happen:
 1. We'll generate a CSR for your to purchase your own SSL cert and provide your CNAME and A-record for you to update your DNS records on the domain you've purchased.
 2. Send Isomer your SSL cert and we'll install in on our CDN
 3. Make the necessary updates on your DNS records 
-4. Isomer team will update our CDN and your site will be live. 
+4. Isomer team will update our CDN and in 10-15 mins, your site will be live! 
+
 
 
 
