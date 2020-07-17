@@ -8,7 +8,9 @@ All isomer sites are static. Launching a static site means that there is no data
 
 Your website structure is much simpler. Your pages are simply files (just like your word or excel documents on your File Explorer).
 
-![image of static vs dynamic comparison](/images/static-vs-dynamic.png)
+<div align="center">
+<img src="/images/static-vs-dynamic.png" alt="Static and dynamic sites comparison" width="80%">
+</div> 
 
 You can read more about the benefits of having a static site [here](https://scotch.io/bar-talk/5-reasons-static-sites-rock). 
 
