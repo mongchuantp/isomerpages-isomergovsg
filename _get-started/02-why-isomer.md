@@ -1,5 +1,5 @@
 ---
-title: Why isomer?
+title: Why Isomer?
 permalink: /get-started/why-isomer/
 ---
 
